@@ -1,0 +1,43 @@
+//Server address : https://dbformongo.eu-gb.cf.appdomain.cloud/
+
+1. At initial start LoginRequest,Login,Signup;
+2. if management 
+    get invite code from server;
+3. Record Data
+
+
+//Debug Problem in ForgotPassword
+
+
+post classes to classes endpoint by property className:a,b,c,d;
+when clicked add class 
+
+if upon clicking on one of the class common 
+a modal should appear asking for student details (createStudent);
+
+when click add student it should add 
+
+//Add snackbar 
+
+
+Project
+✔ 01. Signup Module @started(20-05-10 12:09) @done(20-05-10 13:50) @lasted(1h41m17s)
+✔ 02. Login Module @started(20-05-10 14:15) @done(20-05-13 11:48) @lasted(21h33m56s)
+☐ 03. Barber Dashboard (plain)
+✔ 04. Customer Dashboard	(plain) @started(20-05-13 11:49) @done(20-05-13 22:33) @lasted(10h44m57s)
+☐ 05. Doctor Dashboard (plain)
+☐ 06. On barber signup the account should be deactivated in the start and unable to login till activation
+☐ 07. These deactivated accounts will be sent  to doctor dashboard for approval.
+☐ 08. Doctor should activate account when the barber is covid free.
+☐ 09. Barber account should be deactivated every 2 consecutive days.
+☐ 10. He has to again consult doctor for activation of account.
+✔ 11. In Customer Dashboard he will see all deals and prices of haircut, shaving, haircut and Shaving etc. @done(20-05-15 10:30)
+✔ 12. In Customer Dashboard he will able to place an order: @done(20-05-15 10:30)
+✔ 13. To place an order he must switch on GPS. @done(20-05-15 10:30)
+☐ 14. If no GPS Take him to dashboard
+✔ 15. If clicked place order he will be routed to a module in which it consists of map with persons(markers) near his perimeter. @done(20-05-15 10:30)
+✔ 16. On Clicking any of the marker he will be listed with pricing and the selected deal name and can place the order. @done(20-05-15 10:30)
+☐ 17. After the order sent the transaction page .
+☐ 18. Then the order is sent to the barber 
+
+
