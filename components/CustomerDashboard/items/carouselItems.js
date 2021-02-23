@@ -1,28 +1,38 @@
+
+
+
+
+
+
+
+
+
+
 let carouselItems = [
     {
         title:"Hair Salon",
         text: "Hair Salon",
-        image:"https://raw.githubusercontent.com/prabhuchira/LearnTruly-FrontEnd/master/assets/images/hair_saloon.png?raw=true"
+        image:"https://i.ibb.co/GtmhWfj/hair-saloon.jpg"
     },
     {
         title:"Nail Salon",
         text: "Nail Salon",
-        image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/nail_saloon.jpg?raw=true"
+        image:"https://i.ibb.co/s3nsM0t/nail-saloon.jpg"
     },
     {
         title:"Waxing Salon",
         text: "Waxing Salon",
-        image:"https://raw.githubusercontent.com/prabhuchira/LearnTruly-FrontEnd/master/assets/images/wax.webp?raw=true"
+        image:"https://i.ibb.co/wdDqvx9/wax.webp"
     },
     {
         title:"Beauty Salon",
         text: "Beauty Salon",
-        image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/beauty_saloon.jpg?raw=true?raw=true"
+        image:"https://i.ibb.co/D7g7YbT/beauty-saloon.jpg"
     },
     {
         title:"Barbershop",
         text: "Barbershop",
-        image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/barbershop.png?raw=true"
+        image:"https://i.ibb.co/tcNHckC/barbershop.jpg"
     },
     {
       title:"Eyebrows & lashes",
@@ -32,22 +42,22 @@ let carouselItems = [
   {
     title:"Massage",
     text: "Massage",
-    image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/beauty_saloon.jpg?raw=true?raw=true"
+    image:"https://i.ibb.co/D7g7YbT/beauty-saloon.jpg"
 },
 {
   title:"Spa ",
   text: "Spa",
-  image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/spa.jpg?raw=true"
+  image:"https://i.ibb.co/DWT0kCQ/spa.jpg"
 },
 {
 title:"Personal Trainer",
 text: "Personal Trainer",
-image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/personal_trainer.jpg?raw=true"
+image:"https://i.ibb.co/L8jc2CK/personal-trainer.jpg"
 },
 {
 title:"Theraphy Center",
 text: "Theraphy Center",
-image:"https://github.com/prabhuchira/LearnTruly-FrontEnd/blob/master/assets/images/theraphy_center.jpg?raw=true"
+image:"https://i.ibb.co/61t2Jx9/theraphy-center.jpg"
 }
 
 ]
